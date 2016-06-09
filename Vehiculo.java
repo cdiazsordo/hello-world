@@ -30,7 +30,7 @@ public class Vehiculo {
     
     //Sobrescritura del método toString 
     public String toString() {
-        return "Matrícula del vehículo: "+matricula+" - Color: "+color+" \nRuedas: "+ numRuedas+" - Cilindrada: "+
+        return "Matrícula del vehículo actual: "+matricula+" - Color: "+color+" \nRuedas: "+ numRuedas+" - Cilindrada: "+
         cilindrada+" - Potencia: "+potencia;
     }   
 }
