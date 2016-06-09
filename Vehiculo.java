@@ -28,9 +28,9 @@ public class Vehiculo {
         this.cilindrada = cilindrada;
     }
     
-    //Sobrescritura del mÈtodo toString 
+    //Sobrescritura del m√©todo toString 
     public String toString() {
-        return "MatrÌcula: "+matricula+" - Color: "+color+" \nRuedas: "+ numRuedas+" - Cilindrada: "+
+        return "Matr√≠cula del veh√≠culo: "+matricula+" - Color: "+color+" \nRuedas: "+ numRuedas+" - Cilindrada: "+
         cilindrada+" - Potencia: "+potencia;
     }   
 }
